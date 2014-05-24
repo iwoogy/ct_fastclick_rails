@@ -7,11 +7,11 @@ require "ct_fastclick_rails/version"
 Gem::Specification.new do |s|
   s.name        = "ct_fastclick_rails"
   s.version     = CtFastclickRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of CtFastclickRails."
-  s.description = "TODO: Description of CtFastclickRails."
+  s.authors     = ["Codetalay"]
+  s.email       = ["developer.codetalay@gmail.com"]
+  s.homepage    = "http://www.codetalay.com"
+  s.summary     = "Summary"
+  s.description = "Description"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
